@@ -42,11 +42,22 @@ print("Capitalized name:", name.capitalize())
 print("Length of phrase:", len(phrase))  # Output: 14
 declarationOfIndependence = "The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
 print("Length of the Declaration of Independence:", len(declarationOfIndependence))
+# push it to github
+# git add .
+# git commit -m "comment"
+# git push origin
 
 
 # # ----------------------------------------
 # # 3. Indexing and Slicing
 # # ----------------------------------------
+
+chicago_mayor = "Johnson"
+print(len(chicago_mayor))
+# Counting in Python stars with 0 (the final character is -1)
+print(chicago_mayor[0])
+print(chicago_mayor[4])
+print(chicago_mayor[-1])
 
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
