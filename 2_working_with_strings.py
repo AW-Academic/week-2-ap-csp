@@ -72,6 +72,13 @@ print(chicago_mayor[2:6])
 # Please, no Johns.
 print(chicago_mayor[0:5])
 
+phrase3 = "Supercagifragilisticexpialidocious"
+print(phrase3.upper())
+print(phrase3[0:5])
+phrase4 = (phrase3[5:9])
+print(phrase4)
+print(phrase3[-1])
+
 # # Example combining everything:
 # print("Formatted Example:", (greeting + " " + name + "!").upper())
 # # Output: HELLO WORLD!
