@@ -54,6 +54,8 @@ print(f"{name} is {age} years old. Hungry? {hungry}")
 # # Example (INVALID): first name = "John" ❌
 # # Example (VALID):
 # first_name = "John"
+# firstName = "john"
+# The 2 variables above are not exactly the same.
 
 # # 3. Avoid using Python keywords and symbols
 # # Example (INVALID): for = "test" ❌ (since 'for' is a Python keyword)
