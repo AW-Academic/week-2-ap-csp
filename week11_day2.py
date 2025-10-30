@@ -14,6 +14,7 @@ age = 16
 favorite_color = "Red"
 favorite_number = 9
 
+
 #  Step 2: Practice String Operations
 # 1. Print your name in uppercase
 print(first_name.upper())
@@ -35,7 +36,6 @@ print(favorite_number * 2)
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 operator_fav_num = int(input("Now that I've shared mine, what's your favorite number?"))
-
 
 
 # ⚙️ Step 5: Final Challenge (combine it all)
